@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about AI, ML, IoT, Maths
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nivu/)
 - ⚡ Fun fact: I'm a lazy person
-- 📫 More details - nivu.me
+- 📫 More details - [nivu.me](https://nivu.me/)
 
 [![Nivu's github stats](https://github-readme-stats.vercel.app/api?username=navneetnivu07)](https://github.com/anuraghazra/github-readme-stats)
 
