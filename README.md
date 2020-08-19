@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a lazy person
 - 📫 More details - [nivu.me](https://nivu.me/)
 
-[![Nivu's github stats](https://github-readme-stats.vercel.app/api?username=navneetnivu07)](https://github.com/anuraghazra/github-readme-stats)
+[![Nivu's github stats](https://github-readme-stats.vercel.app/api?username=navneetnivu07&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
